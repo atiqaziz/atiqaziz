@@ -11,7 +11,7 @@
 ---
 
 ## What I'm Working on
-I'm currently sharpening my skills in **backend development** exploring **scalable architecture** and building cool projects with **Python & Django**.
+I'm currently sharpening my skills in backend development exploring scalable architecture and building cool projects with Python & Django.
 
 ## Tech Stack
 
