@@ -25,7 +25,7 @@ I'm currently sharpening my skills in backend development exploring scalable arc
 ### Frontend
 <p>
     <a href = "https://github.com/atiqaziz">
-        <img src = "https://skillicons.dev/icons?i=html,css,js,tailwind,react"/>
+        <img src = "https://skillicons.dev/icons?i=html,css,tailwind,react"/>
     </a>
 </p>
 
