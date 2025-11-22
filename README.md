@@ -11,7 +11,7 @@
 ---
 
 ## What I'm Working on
-I'm currently sharpening my skills in **backend development** exploring **scalable architecture** and building cool projects with **Python, Django & FastAPI**.
+I'm currently sharpening my skills in **backend development** exploring **scalable architecture** and building cool projects with **Python & Django**.
 
 ## Tech Stack
 
@@ -59,7 +59,7 @@ I'm currently sharpening my skills in **backend development** exploring **scalab
 ---
 
 ## Connect with Me
-<p align = "center">
+<p align = "left">
     <a href = "mailto:atiqaziz.bd@gmail.com">
         <img src = "https://skillicons.dev/icons?i=gmail" />
     </a>
