@@ -67,6 +67,10 @@ I'm currently sharpening my skills in backend development exploring scalable arc
     <a href = "https://www.linkedin.com/in/atiqaziz/">
         <img src = "https://skillicons.dev/icons?i=linkedin" />
     </a>
+    &nbsp;
+    <a href = "https://www.x.com/atiq0aziz/">
+        <img src = "https://skillicons.dev/icons?i=twitter" />
+    </a>
 </p>
 
 
