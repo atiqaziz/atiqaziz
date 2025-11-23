@@ -32,7 +32,7 @@ I'm currently sharpening my skills in backend development exploring scalable arc
 ### Backend
 <p>
     <a href = "https://github.com/atiqaziz">
-        <img src = "https://skillicons.dev/icons?i=django,fastapi,flask"/>
+        <img src = "https://skillicons.dev/icons?i=django,fastapi"/>
     </a>
 </p>
 
