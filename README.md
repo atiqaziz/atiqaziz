@@ -46,7 +46,7 @@ I'm currently sharpening my skills in backend development exploring scalable arc
 ### Tools & Devops
 <p>
     <a href = "https://github.com/atiqaziz">
-        <img src = "https://skillicons.dev/icons?i=linux,git,docker,aws,nginx,githubactions,vim"/>
+        <img src = "https://skillicons.dev/icons?i=linux,git,docker,aws,nginx,githubactions,vim,bash"/>
     </a>
 </p>
 
