@@ -18,7 +18,7 @@ I'm currently sharpening my skills in backend development exploring scalable arc
 ### Languages
 <p>
     <a href = "https://github.com/atiqaziz">
-        <img src = "https://skillicons.dev/icons?i=py,js,c,cpp"/>
+        <img src = "https://skillicons.dev/icons?i=py,js,cpp"/>
     </a>
 </p>
 
